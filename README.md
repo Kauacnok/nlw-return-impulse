@@ -1,5 +1,5 @@
 <p align='center'> 
-	<h1 align='center'>Feedget <img style="width: 30px; height:30px;" src="https://i.imgur.com/K0OMYOH.png" alt="Imagem com um ícone de um balão de conversa"></h1>
+	<h1 align='center'>Feedget <div style="display: flex; justify-content: center; align-items: center; background-color: #8257E5; border:1px solid black; border-radius: 50%; width: 50px; height: 50px"><img style="width: 30px; height:30px; background-color: #8257E5;" src="https://i.imgur.com/K0OMYOH.png" alt="Imagem com um ícone de um balão de conversa"></div></h1>
 </p>
 <p align='center'> 
 	<img src="https://i.imgur.com/FMKDnql.png" alt="Imagem com o layout de feedback com as opções para escolher que são: problema, ideia e outro">
@@ -61,4 +61,4 @@ E por fim ao colocarmos nosso projeto no ar com o Github, fizemos deploy do proj
 
 ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Kauacnok/nlw-return-impulse/blob/main/LICENSE) para mais detalhes.
