@@ -57,6 +57,8 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/)
 
 Essa foi a primeira vez que escolhi essa trilha, então eu aprendi basicamente tudo, tirando a parte de usar uma biblioteca com uma ORM que eu já havia colocado em prática, aprendi como construir layouts usando o REACT e REACT Native, e também achei interessante como é produtivo usaro TailwindCSS. E vi na prática a teoria que o Diego Fernandes mostrou sobre a separação do Backend e do Frontend, e também consegui dar um olhada sobre os testes unitários usando a biblioteca do JEST achei muito interessante e pretendo aplicar em algum projeto futuro.
 
+Também implementamos acessibilidade usando a biblioteca headlessUI e percebemos que com essa biblioteca não é difícil implementar acessibilidade
+
 E por fim ao colocarmos nosso projeto no ar com o Github, fizemos deploy do projeto tanto backend como frontend, para backend usamos o [Railway](https://railway.app/) e para frontend usamos o [Vercel](https://vercel.com/)
 
 ## 📝 License
